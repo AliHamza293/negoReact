@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.171298b5.css",
+    "main.js": "/static/js/main.92d7f814.js",
+    "static/media/intro.png": "/static/media/intro.4d138de1630723da1a27.png",
+    "static/media/hero-img.png": "/static/media/hero-img.c31cfcf25cc19891abd6.png",
+    "static/media/AHS_LOGO_2.png": "/static/media/AHS_LOGO_2.05ba7448d40aa1ca886e.png",
+    "static/media/Tinky Tunes logo.png": "/static/media/Tinky Tunes logo.2cf45e8c42c5da4972bd.png",
+    "static/media/BrewOtaku-Logo-v2.png": "/static/media/BrewOtaku-Logo-v2.9a0ed80a320a1c1976f1.png",
+    "static/media/nego.png": "/static/media/nego.fee8431069e420727cbe.png",
+    "static/media/n-logo2.png": "/static/media/n-logo2.087d82da94de0ea1581a.png",
+    "static/media/instagram.png": "/static/media/instagram.4c4ee2728dd94208819b.png",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.171298b5.css.map": "/static/css/main.171298b5.css.map",
+    "main.92d7f814.js.map": "/static/js/main.92d7f814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171298b5.css",
+    "static/js/main.92d7f814.js"
+  ]
+}
